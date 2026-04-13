@@ -2,7 +2,7 @@
 Akhilan S — Operations & Process Excellence Portfolio
 
 Personal portfolio website built with pure HTML, CSS, and JavaScript.
-Live at: https://akhilan7.github.io/portfolio
+Live at: [https://akhilan7.github.io/portfolio](https://akhilan7.github.io/PORTFOLIO/)
 
 
 About
